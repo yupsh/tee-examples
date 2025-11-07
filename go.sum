@@ -1,0 +1,8 @@
+github.com/gloo-foo/framework v0.0.1 h1:RCI+rT/SSY51R3qGLz8u6zjt113dny7Yf2ZM6+MhqHE=
+github.com/gloo-foo/framework v0.0.1/go.mod h1:p9P7iz84iZ4+c7BoOrVcKl7yuWVZ79eaCmWkM44FJ4c=
+github.com/gloo-foo/framework v0.0.3 h1:1ZmonNQ0ftuIrDEQ2G/mfY4qcODLyECI71UxtEgo1Fw=
+github.com/gloo-foo/framework v0.0.3/go.mod h1:p9P7iz84iZ4+c7BoOrVcKl7yuWVZ79eaCmWkM44FJ4c=
+github.com/yupsh/tee v0.0.2 h1:8dYBfMN5r7vrYHKDM5DVEsxseYGSLu4Ln1rKeZHoSzk=
+github.com/yupsh/tee v0.0.2/go.mod h1:RMq9gs9rKsk8Fvbt/kzSBBW8YHH6ISR4ecFi9pAnp3E=
+github.com/yupsh/tee v0.0.3 h1:VDVRhVTvb4PyDD70cYBt6M2JF1zDnsX8HA8/StrF0wQ=
+github.com/yupsh/tee v0.0.3/go.mod h1:RMq9gs9rKsk8Fvbt/kzSBBW8YHH6ISR4ecFi9pAnp3E=
